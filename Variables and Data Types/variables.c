@@ -1,4 +1,9 @@
 #include <stdio.h>
+
+/**
+ * This is a basic introduction to Variables & Data Types to help you start writing C programs.
+ * We'll explore these concepts in much more detail in the upcoming chapters!
+ */
 int main() {
 
     /*
