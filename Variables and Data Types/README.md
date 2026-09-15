@@ -84,8 +84,9 @@ Then execute the program:
 variables_datatypes.exe
 ```
 
-## Purpose
-This program is created to practice **variables and basic data types** in C and understand how different types of data are stored and displayed...
+## 🎯 Purpose
+
+This program provides a basic introduction to **variables and data types** in C, helping beginners get started with writing simple C programs. These concepts will be explored in more detail in the upcoming chapters...
 
 
 ### Author
